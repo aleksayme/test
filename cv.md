@@ -1,8 +1,8 @@
 # **CV**
 
-![photo](https://drive.google.com/uc?export=view&id=1TqNUHp9ft8jf4ItNNfJmqUp7oZX5JWOu)
+![photo](https://drive.google.com/uc?export=view&id=1oXLsimXRNZeigNDsl5Aq9Fajil2sto1m)
 
-## Alexey Rozov
+## Aleksey Rozov
 
 ***Contacts:*** 
 
@@ -38,6 +38,8 @@ b.print();
 ```
 ***Experience:*** https://aleksayme.github.io/rsschool-cv/cv
 
-***Education:*** University education of Sait-Peterburg Mining University, Specialization: Mining Engineer, ***Courses:*** Data Analysis with Power BI, Basic JS, CSS, HTML. 
+***Education:*** University education of Sait-Peterburg Mining University, Specialization: Mining Engineer
+
+***Courses:*** Data Analysis with Power BI, Basic JS, CSS, HTML. 
 
 ***English level:*** Intermediate, Practice: Interview for vacancies, took part in work meeteings, work in international team.
