@@ -17,7 +17,7 @@
 ***About:*** Energetic, sociable, easy and quick to train, efficient, have experience in management and teamwork. I plan my working day as efficiently as possible. Work experience in an unstable, irregular working day. I easily adapt to new working conditions. Striving for professional development and growth.
 
 
-***Skills:*** JS, React, Power BI, Excel
+***Skills:*** JS, React, Power BI, Excel.
 
 
  *********
